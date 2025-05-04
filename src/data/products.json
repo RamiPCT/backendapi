@@ -1,0 +1,15 @@
+[
+  {
+    "id": "32ceaf15-c819-4c60-a966-d7bf56dabfde",
+    "status": true,
+    "title": "Corte de Pelo",
+    "description": "Corte profesional",
+    "code": "CP001",
+    "price": 2000,
+    "stock": 10,
+    "category": "Servicios",
+    "thumbnails": [
+      "img/corte1.jpg"
+    ]
+  }
+]
